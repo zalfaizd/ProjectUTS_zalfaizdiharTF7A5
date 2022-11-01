@@ -1,2 +1,2 @@
-# projectutszalfaizdiharTF7A5
+# Project UTS
 This is for study purposes :)
